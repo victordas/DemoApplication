@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">DemoApplication</string>
+    <string name="file_name">payment.json</string>
+    <string name="total_amount_label">Total Amount = ₹ </string>
+    <string name="remove_payment_button">Remove payment button</string>
+    <string name="payment_item_cash_label">%1$s = Rs. %2$d</string>
+    <string name="payment_item_others_label">%1$s: Rs. %2$d</string>
+    <string name="add_payment_button_label"><u>Add payment</u></string>
+    <string name="save_button">Save</string>
+    <string name="payments_header">Payments</string>
+    <string name="no_payment">There are no payments!</string>
+    <string name="pamyment_amount_hint">Amount</string>
+    <string name="pamyment_provider_hint">Provider (ICICI, Citibank, etc.)</string>
+    <string name="pamyment_transaction_reference_hint">Transaction reference</string>
+    <string name="okay_button_label">OK</string>
+    <string name="cancel_button_label">CANCEL</string>
+    <string name="add_payment_header_label">Add payment</string>
+    <string name="rupee_currency_lable">₹ </string>
+    <string name="ok_button">Ok</string>
+    <string name="cancel_button">Cancel</string>
+</resources>
